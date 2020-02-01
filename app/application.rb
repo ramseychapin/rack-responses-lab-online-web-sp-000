@@ -8,4 +8,6 @@ class application
     else
       resp.write "Good Afternoon!"
     end
+  end
+
 end
